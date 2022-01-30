@@ -18,4 +18,7 @@ dinamicamente ao projeto.
 
 <h2 align="center"><strong>Imagens do Projeto</strong></h2>
 
-<img align="center" src="game.gif">
+<img align="center" src="telaLogin.jpeg">
+<img align="center" src="telaDash.jpeg">
+<img align="center" src="cadastroUsuarios.jpeg">
+<img align="center" src="crud.gif">
